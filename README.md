@@ -26,5 +26,3 @@ Backend Developer at Dasa
 ![AngularJS](https://img.icons8.com/color/30/angularjs.png)
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
 ![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)
-
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
