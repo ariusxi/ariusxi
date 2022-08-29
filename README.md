@@ -29,4 +29,4 @@ Backend Developer at Vortigo Digital
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
 ![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)
 
-![Snake animation](https://github.com/rafaballerini/ariusxi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ariusxi/ariusxi/blob/output/github-contribution-grid-snake.svg)
