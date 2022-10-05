@@ -1,9 +1,8 @@
 ### Hey, I'm Alef Felix (:coffee::computer::bulb::heart:)
 
-Backend Developer at Vortigo Digital
+Backend Developer at ParceleCart
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/versodoinvers0/) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alef-felix/)
+[![@ariusxi's Holopin board](https://holopin.io/api/user/board?user=ariusxi)](https://holopin.io/@ariusxi)
 
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ariusxi&count_private=true&show_icons=true&theme=radical"/>
