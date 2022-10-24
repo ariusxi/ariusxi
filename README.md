@@ -1,8 +1,6 @@
-### Hey, I'm Alef Felix (:coffee::computer::bulb::heart:)
+### Hey, I'm Alef Felix (:coffee::computer:)
 
 Backend Developer at ParceleCart
-
-[![@ariusxi's Holopin board](https://holopin.io/api/user/board?user=ariusxi)](https://holopin.io/@ariusxi)
 
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ariusxi&count_private=true&show_icons=true&theme=radical"/>
