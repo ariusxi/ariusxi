@@ -12,10 +12,9 @@
   :wrench: Technologies
 </h3>
 <div align="center">
-  <img src="https://img.icons8.com/color/30/html-5.png"/>
-  <img src="https://img.icons8.com/color/30/css3.png"/>
   <img src="https://img.icons8.com/color/30/javascript.png"/>
   <img src="https://img.icons8.com/color/30/nodejs.png"/>
+  <img src="https://img.icons8.com/color/30/nestjs.png"/>
   <img src="https://img.icons8.com/color/30/php.png"/>
   <img src="https://img.icons8.com/color/30/sass.png"/>
   <img src="https://img.icons8.com/color/30/npm.png"/>
@@ -24,6 +23,7 @@
   <img src="https://img.icons8.com/color/30/git.png"/>
   <img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/30/vue-js.png"/>
+  <img src="https://img.icons8.com/color/30/nextjs.png"/>
   <img src="https://img.icons8.com/color/30/react-native.png"/>
   <img src="https://img.icons8.com/color/30/angularjs.png"/>
   <img src="https://img.icons8.com/color/30/windows-10.png"/>
