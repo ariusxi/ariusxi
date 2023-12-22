@@ -33,7 +33,7 @@ def main():
                 contin=True
             )
         else:
-            t.gen_text(f"Memory Test: {i}", 7, countin=True)
+            t.gen_text(f"Memory Test: {i}", 7, contin=True)
 
     t.gen_text("Memory Test: 64KB OK", 7, count=10, contin=True)
     t.gen_text("", 11, count=10, contin=True)
