@@ -1,36 +1,16 @@
-<div align="center">
-  <h1>Hey, I'm Alef Felix (:coffee::computer:)</h1>
-  <p><b>Backend Developer at ParceleCart</b></p>
+<div align="justify">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/C2TcQjn/output-gif.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/C2TcQjn/output-gif.gif">
+    <img alt="GIFOS" src="https://i.ibb.co/C2TcQjn/output-gif.gif">
+</picture>
+
+<sub><i>Generated automatically using [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) on Fri Dec 22 10:05:32 AM -03 2023</i></sub>
+
+<details>
+<summary>More details</summary>
+
+</details>
 </div>
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ariusxi&count_private=true&show_icons=true&theme=radical"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariusxi&layout=compact&langs_count=16&theme=radical"/>
-</div>
-
-<h3 align="center">
-  :wrench: Technologies
-</h3>
-<div align="center">
-  <img src="https://img.icons8.com/color/30/javascript.png"/>
-  <img src="https://img.icons8.com/color/30/nodejs.png"/>
-  <img src="https://img.icons8.com/color/30/nestjs.png"/>
-  <img src="https://img.icons8.com/color/30/php.png"/>
-  <img src="https://img.icons8.com/color/30/sass.png"/>
-  <img src="https://img.icons8.com/color/30/npm.png"/>
-  <img src="https://img.icons8.com/material-outlined/30/github.png"/>
-  <img src="https://img.icons8.com/color/30/bitbucket.png"/>
-  <img src="https://img.icons8.com/color/30/git.png"/>
-  <img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/30/vue-js.png"/>
-  <img src="https://img.icons8.com/color/30/nextjs.png"/>
-  <img src="https://img.icons8.com/color/30/react-native.png"/>
-  <img src="https://img.icons8.com/color/30/angularjs.png"/>
-  <img src="https://img.icons8.com/color/30/windows-10.png"/>
-  <img src="https://img.icons8.com/color/30/ubuntu--v1.png"/>
-  <img src="https://img.icons8.com/color/30/linux.png"/>
- </div>
-
-![Snake animation](https://github.com/ariusxi/ariusxi/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+<!-- Image deletion URL: https://ibb.co/py97dH3/c0ab33cc59c4abb24339b20bb352041a -->
