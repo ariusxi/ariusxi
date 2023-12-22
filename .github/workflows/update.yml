@@ -25,6 +25,7 @@ jobs:
       - name: Run script
         run: python main.py
         env:
+          GITHUB_TOKEN: ${{ secrets.TERMINAL_GITHUB_TOKEN }}
           GIFOS_GENERAL_COLOR_SCHEME: "yoru"
 
       - name: Update readme
