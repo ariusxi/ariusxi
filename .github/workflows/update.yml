@@ -26,6 +26,7 @@ jobs:
         run: python main.py
         env:
           GITHUB_TOKEN: ${{ secrets.TERMINAL_GITHUB_TOKEN }}
+          IMGBB_API_KEY: ${{ secrets.IMGBB_API_KEY }}
           GIFOS_GENERAL_COLOR_SCHEME: "yoru"
 
       - name: Update readme
