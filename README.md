@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I'm Alef Felix (:coffee::computer:)</h1>
+  <h1>Hey, I'm Alef Felix (☕💻)</h1>
   <p><b>Backend Developer at ParceleCart</b></p>
 </div>
 
