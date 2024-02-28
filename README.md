@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, I'm Alef Felix (☕💻)</h1>
-  <p><b>Backend Developer at ParceleCart</b></p>
+  <p><b>Backend Developer at Kronoos</b></p>
 </div>
 
 <div align="center">
