@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I'm Alef Felix (☕💻)</h1>
+  <h1>Hey, i'm Alef Felix <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
   <p><b>Backend Developer at Kronoos</b></p>
 </div>
 
