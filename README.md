@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, i'm Alef Felix <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
-  <p><b>Backend Developer at Kronoos</b></p>
+  <p><b>Tech Lead at Kronoos</b></p>
 </div>
 
 <div align="center">
