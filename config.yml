@@ -38,23 +38,26 @@ galaxy_arms:
       - "AWS"
 
 projects:
-  - repo: "galaxy-dev/nebula-ui"
+  - repo: "ariusxi/artie-lens"
     arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
+    description: "A TypeScript library for analyzing software architecture and microservices using key metrics like cohesion, coupling, and design patterns, providing insights for maintainable and resilient systems."
+  - repo: "ariusxi/spark-validator"
     arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
+    description: "A JavaScript lib to validate complex objects and arrays"
 
 theme:
-  void: "#080c14"              # Darkest background
-  nebula: "#0f1623"            # Card backgrounds
-  star_dust: "#1a2332"         # Borders, dividers
-  synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
-  dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
-  axon_amber: "#ffb020"        # Tertiary accent (arm color 3)
-  text_bright: "#f1f5f9"       # Primary text
-  text_dim: "#94a3b8"          # Secondary text
-  text_faint: "#64748b"        # Muted text, labels
+  void: "#020806"              # Deep emerald black (background)
+  nebula: "#051a14"            # Dark green nebula (cards)
+  star_dust: "#0b2a22"         # Dividers / subtle surfaces
+
+  synapse_cyan: "#00f5a0"      # Neon emerald (primary arm)
+  dendrite_violet: "#34d399"   # Soft emerald glow (secondary arm)
+  axon_amber: "#10b981"        # Deep emerald core (tertiary arm)
+
+  text_bright: "#d1fae5"       # Mint white
+  text_dim: "#6ee7b7"          # Soft emerald text
+  text_faint: "#065f46"        # Muted dark emerald
+
 
 # Stats configuration — which metrics to show on the telemetry card
 stats:
