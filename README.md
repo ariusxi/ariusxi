@@ -1,36 +1,42 @@
 <div align="center">
-  <h1>Hey, i'm Alef Felix <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
-  <p><b>Tech Lead at Kronoos</b></p>
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ariusxi&count_private=true&show_icons=true&theme=radical"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariusxi&layout=compact&langs_count=16&theme=radical"/>
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
-<h3 align="center">
-  :wrench: Technologies
-</h3>
+<br/>
+
 <div align="center">
-  <img src="https://img.icons8.com/color/30/javascript.png"/>
-  <img src="https://img.icons8.com/color/30/nodejs.png"/>
-  <img src="https://img.icons8.com/color/30/nestjs.png"/>
-  <img src="https://img.icons8.com/color/30/php.png"/>
-  <img src="https://img.icons8.com/color/30/sass.png"/>
-  <img src="https://img.icons8.com/color/30/npm.png"/>
-  <img src="https://img.icons8.com/material-outlined/30/github.png"/>
-  <img src="https://img.icons8.com/color/30/bitbucket.png"/>
-  <img src="https://img.icons8.com/color/30/git.png"/>
-  <img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/30/vue-js.png"/>
-  <img src="https://img.icons8.com/color/30/nextjs.png"/>
-  <img src="https://img.icons8.com/color/30/react-native.png"/>
-  <img src="https://img.icons8.com/color/30/angularjs.png"/>
-  <img src="https://img.icons8.com/color/30/windows-10.png"/>
-  <img src="https://img.icons8.com/color/30/ubuntu--v1.png"/>
-  <img src="https://img.icons8.com/color/30/linux.png"/>
- </div>
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
 
-![Snake animation](https://github.com/ariusxi/ariusxi/blob/output/github-contribution-grid-snake.svg)
+<br/>
 
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+
+<br/>
+
+<details>
+<summary><strong>More about me</strong></summary>
+
+<br/>
+
+**Currently at** Kronoos — São Paulo, BR
+</details>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:alef.developerweb@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alef-felix/">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+</div>
