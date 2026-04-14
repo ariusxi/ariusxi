@@ -27,7 +27,7 @@
 
 <br/>
 
-**Currently at** Kronoos — São Paulo, BR
+**Currently at** Makasí — Curitiba, Paraná, BR
 </details>
 
 <br/>
