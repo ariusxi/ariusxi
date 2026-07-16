@@ -41,8 +41,11 @@ projects:
   - repo: "ariusxi/artie-lens"
     arm: 0
     description: "A TypeScript library for analyzing software architecture and microservices using key metrics like cohesion, coupling, and design patterns, providing insights for maintainable and resilient systems."
-  - repo: "ariusxi/spark-validator"
+  - repo: "ariusxi/luna"
     arm: 1
+    description: "A TypeScript framework for Node.js that abstracts the transport layer — HTTP, WebSocket, and more, all through the same handler interface"
+  - repo: "ariusxi/spark-validator"
+    arm: 2
     description: "A JavaScript lib to validate complex objects and arrays"
 
 theme:
